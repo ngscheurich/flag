@@ -6,6 +6,11 @@ primary focus is searching for stories using Shortcutʼs [search operators].
 Search results are returned as raw JSON data. Combined with other tools, you
 might find some interesting use cases for such functionality.
 
+## Installation
+
+Grab the latest release, or any release of your choosing really, from the
+[Releases page](https://github.com/ngscheurich/flag/releases).
+
 ## Usage
 
 Generate a [Shortcut API token], then log in:
