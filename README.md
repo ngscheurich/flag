@@ -1,7 +1,7 @@
 # 🏳 FLAG
 
-FLAG is a command-line wrapper for a small portion of the Shortcut API. Its
-primary focus is searching for stories using Shortcutʼs [search operators].
+FLAG is a command-line wrapper for a small portion of the Shortcut REST API.
+Its primary focus is searching for stories using Shortcutʼs [search operators].
 
 Search results are returned as raw JSON data. Combined with other tools, you
 might find some interesting use cases for such functionality.
